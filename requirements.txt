@@ -1,0 +1,13 @@
+pyspark==3.5.1
+delta-spark==3.1.0
+kafka-python==2.0.2
+apache-airflow
+boto3
+pandas
+pyarrow
+great-expectations
+pytest
+black
+isort
+flake8
+python-dotenv
